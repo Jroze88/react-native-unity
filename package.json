@@ -1,0 +1,26 @@
+{
+  "name": "react-native-unity",
+  "version": "0.1.6",
+  "description": "React Native package to use Unity as library with React Native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "unity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jroze88/react-native-unity.git"
+  },
+  "homepage": "https://github.com/jroze88/react-native-unity#README",
+  "author": "Jano Roze <azesm@me.com> (https://github.com/jroze88)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.64.1"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
